@@ -14,4 +14,7 @@ for (let i = 0; i < textArray.length; i++) {
     console.log(delta);
 }
 
+
+console.log('test');
+
 complete();
